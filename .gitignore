@@ -91,7 +91,7 @@ plots/
 !docs/**/*.svg
 
 # CSV / Excel results (generated)
-*.csv
+# *.csv
 !data/input/**/*.csv
 *.xlsx
 !data/input/**/*.xlsx
